@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
     <option name="defaultScopeName" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
   </component>
 </application>
