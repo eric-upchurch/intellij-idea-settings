@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
-    <option name="defaultScopeName" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\satellite-analysis-tool\src\main\java\com\synaptech\vis\sat\SatelliteUtils.java [satellite-analysis-tool]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
