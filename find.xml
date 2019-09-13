@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'synaptech-common'" />
-    <option name="defaultScopeName" value="Module 'synaptech-common'" />
-    <option name="SEARCH_SCOPE" value="Module 'synaptech-common'" />
+    <option name="customScope" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\wavefront\GLRenderable.java [synaptech-common]'" />
+    <option name="defaultScopeName" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\wavefront\GLRenderable.java [synaptech-common]'" />
+    <option name="SEARCH_SCOPE" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\wavefront\GLRenderable.java [synaptech-common]'" />
   </component>
 </application>
