@@ -5,6 +5,8 @@
       <mapping pattern="app-env" type="PLAIN_TEXT" />
       <mapping pattern="RAPTR-env" type="PLAIN_TEXT" />
       <mapping ext="shp" type="PLAIN_TEXT" />
+      <mapping ext="tle" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dae" type="XML" />
       <mapping ext="layout" type="XML" />
