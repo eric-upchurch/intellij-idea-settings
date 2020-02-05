@@ -7,13 +7,5 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="ECLIPSE">
-      <CLASSES>
-        <root url="file://X:/work/eclipse/plugins" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://X:/work/eclipse/plugins" recursive="true" />
-    </library>
   </component>
 </application>
