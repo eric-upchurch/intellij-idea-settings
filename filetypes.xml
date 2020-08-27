@@ -14,6 +14,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dae" type="XML" />
       <mapping ext="layout" type="XML" />
+      <removed_mapping ext="qrc" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
