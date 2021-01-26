@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.di2e.net/dashboard?id=RAPTR" />
+          <token>dfccdf9bdf9adf9bdf9adf9ddfcfdfcbdfc9df9edf9ddfcedf98dfc8df9ddf9ddfc8dfcbdf9edf9fdf9fdf9cdfcbdf9ddf99dfccdf9bdfcfdfcbdfcedfc8dfccdf9bdf93dfc8dfccdf9ddf93dfcedf9f</token>
+          <option name="name" value="DI2E" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
