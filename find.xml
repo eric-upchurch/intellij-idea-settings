@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\pom.xml [synaptech-visualizations]'" />
-    <option name="defaultScopeName" value="File '...\pom.xml [synaptech-visualizations]'" />
+    <option name="customScope" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\SunTessellator.java [synaptech-common]'" />
+    <option name="defaultScopeName" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\SunTessellator.java [synaptech-common]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\pom.xml [synaptech-visualizations]'" />
+    <option name="SEARCH_SCOPE" value="File '...\synaptech-common\src\main\java\com\synaptech\vis\worldwind\render\SunTessellator.java [synaptech-common]'" />
   </component>
 </application>
