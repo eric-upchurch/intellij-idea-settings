@@ -4,8 +4,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarqube.di2e.net/dashboard?id=RAPTR" />
-          <token>dfccdf9bdf9adf9bdf9adf9ddfcfdfcbdfc9df9edf9ddfcedf98dfc8df9ddf9ddfc8dfcbdf9edf9fdf9fdf9cdfcbdf9ddf99dfccdf9bdfcfdfcbdfcedfc8dfccdf9bdf93dfc8dfccdf9ddf93dfcedf9f</token>
+          <option name="hostUrl" value="https://sonarqube.di2e.net/" />
+          <token>dfc9df9edf9cdf9fdfc9dfccdf9bdf9edfcedf9edf98df9fdfcedfccdfc8dfcbdfcbdf9adf9cdf9edf9bdfccdfccdfcbdf9adf9edfc8dfccdfcedfcbdfcbdf93dfcfdfccdfc9df9cdf9edf9ddf93df99</token>
           <option name="name" value="DI2E" />
         </SonarQubeServer>
       </list>
