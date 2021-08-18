@@ -12,7 +12,6 @@
       <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="tle" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <mapping ext="dae" type="XML" />
       <mapping ext="layout" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
