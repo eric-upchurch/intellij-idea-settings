@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.di2e.net/" />
+          <token>dfc9df9edf9cdf9fdfc9dfccdf9bdf9edfcedf9edf98df9fdfcedfccdfc8dfcbdfcbdf9adf9cdf9edf9bdfccdfccdfcbdf9adf9edfc8dfccdfcedfcbdfcbdf93dfcfdfccdfc9df9cdf9edf9ddf93df99</token>
+          <option name="name" value="DI2E" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
