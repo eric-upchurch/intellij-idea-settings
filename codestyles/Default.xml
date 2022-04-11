@@ -46,7 +46,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
