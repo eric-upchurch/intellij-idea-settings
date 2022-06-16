@@ -3,11 +3,6 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarqube.di2e.net/" />
-          <token>dfc9df9edf9cdf9fdfc9dfccdf9bdf9edfcedf9edf98df9fdfcedfccdfc8dfcbdfcbdf9adf9cdf9edf9bdfccdfccdfcbdf9adf9edfc8dfccdfcedfcbdfcbdf93dfcfdfccdfc9df9cdf9edf9ddf93df99</token>
-          <option name="name" value="DI2E" />
-        </SonarQubeServer>
-        <SonarQubeServer>
           <option name="hostUrl" value="http://server-workstation:9000/" />
           <token>df9adfc8df9fdfc8df98df92dfcbdf92df93df99df92df9fdf9cdf92dfcfdf92df99df9bdfcbdf9ddfcedf9adf9edfc9df92df9cdfcfdf9fdfc9df92df9adfcfdf9adf9adfc9df9adf9fdfc8dfccdf9a</token>
           <option name="name" value="Synaptech" />
